@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Nmap [![Build Status](https://travis-ci.org/nmap/nmap.svg?branch=master)](https://travis-ci.org/nmap/nmap)
 ====
 
@@ -44,5 +43,3 @@ be found in the [HACKING](HACKING) and [CONTRIBUTING.md](CONTRIBUTING.md)
 files.
 =======
 # nmap
-Nmap Utility repo
->>>>>>> 95326a9c7165722d4114dcbc70279d2fc025f9a2
